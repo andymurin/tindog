@@ -139,6 +139,9 @@ h2{
     padding: 3% 2%;
 }
 
+.blank{
+visibility: hidden;}
+
 /* Call to action */
 
 #cta{
@@ -182,6 +185,13 @@ h2{
     #features{
         position: static;
         padding: 0 0 7%;
+    }
+
+    .features-item h3{
+        font-size: 2rem;
+    }
+    .features-item p{
+        font-size: 1.5rem;
     }
 
     .card-pricing{
