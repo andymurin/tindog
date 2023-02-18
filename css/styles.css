@@ -162,11 +162,11 @@ visibility: hidden;}
 #footer{
     background: #fff;
     text-align: center;
-    padding: 7% 15%;
+    padding: 0% 15%;
 }
 
 #footer i{
-    padding: 3% 1%;}
+    padding: 1% 1%;}
 
 /* Media query */
 
